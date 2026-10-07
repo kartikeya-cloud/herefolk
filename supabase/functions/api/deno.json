@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "hono": "npm:hono@4.7.2",
+    "hono/cors": "npm:hono@4.7.2/cors",
+    "hono/body-limit": "npm:hono@4.7.2/body-limit",
+    "hono/http-exception": "npm:hono@4.7.2/http-exception",
+    "@supabase/supabase-js": "npm:@supabase/supabase-js@2.117.3"
+  }
+}
